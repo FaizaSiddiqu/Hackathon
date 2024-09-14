@@ -1,0 +1,164 @@
+<<<<<<< HEAD
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hwb(83 88% 5%);
+}
+h1{
+    text-align: center;
+    color: #343131;
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    background-color: hwb(87 84% 7%);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    padding: 20px;
+}
+fieldset{
+    border: 2px solid hwb(87 46% 37%);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color:  hwb(90 69% 19%);
+}
+legend{
+    font-weight: 900;
+    text-align: left;
+    color: #343131;
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+input,textarea{
+    width: calc(100% - 1px);
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid hwb(87 46% 37%);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    background-color: hwb(87 31% 49%);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 10px;
+}
+button:hover{
+    color: white;
+}
+
+#resumeOutput{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid hwb(87 46% 37%) ;
+    border-radius: 8px;
+    background-color: hwb(90 69% 19%);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+#resumeOutput h2{
+    columns: #343131;
+}
+
+.photo{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid hwb(87 31% 49%);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+=======
+body{
+    margin: 20px;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hwb(83 88% 5%);
+}
+h1{
+    text-align: center;
+    color: #343131;
+}
+form{
+    max-width: 600px;
+    margin: auto;
+    background-color: hwb(87 84% 7%);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    padding: 20px;
+}
+fieldset{
+    border: 2px solid hwb(87 46% 37%);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color:  hwb(90 69% 19%);
+}
+legend{
+    font-weight: 900;
+    text-align: left;
+    color: #343131;
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+input,textarea{
+    width: calc(100% - 1px);
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid hwb(87 46% 37%);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    background-color: hwb(87 31% 49%);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 10px;
+}
+button:hover{
+    color: white;
+}
+
+#resumeOutput{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid hwb(87 46% 37%) ;
+    border-radius: 8px;
+    background-color: hwb(90 69% 19%);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+}
+#resumeOutput h2{
+    columns: #343131;
+}
+
+.photo{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid hwb(87 31% 49%);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+>>>>>>> 94626bf (Your commit message)
+}
