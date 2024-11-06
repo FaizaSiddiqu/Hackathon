@@ -1,5 +1,6 @@
-# Hackathon
-Milestone 1: Static Interactive Resume Builder (100 Points)
+# HACKATHON-Milestone-Based-Interactive-Resume-Builder
+
+# Milestone 1: Static Interactive Resume Builder 
 Objective:
 Build a static resume using HTML, CSS, and TypeScript.
 Requirements:
@@ -11,7 +12,7 @@ o Work Experience
  Use TypeScript to add basic interactivity, such as a button to toggle the visibility of the
 "Skills" section or other sections. 
 
-Milestone 2: Publish on GitHub and Host on Vercel (100 Points)
+# Milestone 2: Publish on GitHub and Host on Vercel 
 Objective:
 Publish your static resume created in Milestone 1 to GitHub and deploy it live using Vercel.
 Requirements:
@@ -25,7 +26,7 @@ conventions?
  Successful Deployment on Vercel (50 points):
 o Is the resume successfully deployed and accessible online via Vercel
 
-Milestone 3: Dynamic Resume Builder with Form (100 Points)
+# Milestone 3: Dynamic Resume Builder with Form 
 Objective:
 Convert the static resume into a Dynamic Resume Builder where users can fill out a form, and the
 resume is generated based on their input.
@@ -38,7 +39,7 @@ o Skills
  Use TypeScript to dynamically generate the resume using the data provided through the form.
 
 
-Milestone 4: Editable Resume (100 Points)
+# Milestone 4: Editable Resume
 Objective:
 Make the generated resume editable after it’s created.
 Requirements:
@@ -47,7 +48,7 @@ Experience) and directly edit them.
  Ensure the changes are reflected immediately without reloading the page. 
 
 
-Milestone 5: Unique Path and Shareable Link (100 Points)
+# Milestone 5: Unique Path and Shareable Link 
 Objective:
 Generate a unique URL for each resume based on the user’s username, and allow the resume to be
 shared and downloaded.
