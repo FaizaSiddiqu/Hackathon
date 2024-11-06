@@ -3,6 +3,7 @@
 # Milestone 1: Static Interactive Resume Builder 
 Objective:
 Build a static resume using HTML, CSS, and TypeScript.
+
 Requirements:
  Create a static resume with sections like:
 o Personal Information (Name, Contact Details, Profile Picture)
@@ -15,6 +16,7 @@ o Work Experience
 # Milestone 2: Publish on GitHub and Host on Vercel 
 Objective:
 Publish your static resume created in Milestone 1 to GitHub and deploy it live using Vercel.
+
 Requirements:
  Push the project code to a GitHub repository.
  Deploy the project on Vercel so that the resume is publicly accessible.
@@ -30,6 +32,7 @@ o Is the resume successfully deployed and accessible online via Vercel
 Objective:
 Convert the static resume into a Dynamic Resume Builder where users can fill out a form, and the
 resume is generated based on their input.
+
 Requirements:
  Create a form to capture user input for:
 o Personal Information (Name, Email, etc.)
@@ -42,6 +45,7 @@ o Skills
 # Milestone 4: Editable Resume
 Objective:
 Make the generated resume editable after it’s created.
+
 Requirements:
  Implement the ability for users to click on sections of the resume (e.g., Education, Work
 Experience) and directly edit them.
